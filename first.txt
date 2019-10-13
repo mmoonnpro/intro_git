@@ -1,2 +1,4 @@
 GIT modify
+git status
 
+git 3
